@@ -4,7 +4,7 @@
 - TypeScript
 - Tailwind
 
-[DEMO Project](https://sandy-weekendinc.com/)
+[DEMO Project](https://sandyr-weekendinc.netlify.app/)
 
 ### Run Project
 
